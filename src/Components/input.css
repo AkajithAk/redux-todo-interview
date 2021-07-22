@@ -1,0 +1,33 @@
+.inputs{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titles{
+    width: 380px;
+    height: 30px;
+}
+.dates{
+    width: 380px;
+    height: 30px;
+}
+.times{
+    width: 380px;
+    height: 30px;
+}
+.buttons{
+    width: 200px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+}
+.dateandtimeandbtn{
+    padding-top: 20px;
+}
+.deleteBtn{
+    width: 200px;
+    height: 30px;
+    color: white;
+    background-color: red;
+}

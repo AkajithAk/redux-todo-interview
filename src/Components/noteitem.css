@@ -1,0 +1,12 @@
+.containernotes{
+    background-color: grey;
+    border: solid 2px black;
+    padding: 1rem;
+    margin-bottom: 1rem ;
+    align-items: center;
+    text-align: center;
+}
+.update{
+    width: 100px;
+    height: 30px; 
+}
